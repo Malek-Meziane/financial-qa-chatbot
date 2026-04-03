@@ -3,6 +3,9 @@
 A RAG (Retrieval Augmented Generation) pipeline that answers 
 questions over any financial PDF with page citations.
 
+## Demo
+![Demo](financial_chatbot.gif)
+
 ## How it works
 1. Upload any financial PDF (annual report, 10-K, earnings release)
 2. App splits it into chunks and builds a searchable vector index
